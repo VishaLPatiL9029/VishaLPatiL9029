@@ -1,3 +1,4 @@
+![logo](https://github.com/VishaLPatiL9029/VishaLPatiL9029/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Vishal Patil</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Engineer from India</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://github.com/VishaLPatiL9029/VishaLPatiL9029/blob/main/code.gif">
