@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1s6IGT2VuWeZQMoG056q_PNLln87kmKTu/view?usp=drive_link](https://drive.google.com/file/d/1s6IGT2VuWeZQMoG056q_PNLln87kmKTu/view?usp=drive_link)
 
-- ⚡ Fun fact **Lost in the cosmic dance 🌌✨ Passionate stargazer, finding wonder in the vastness of the night sky.🚀**
+- ⚡ **Lost in the cosmic dance 🌌✨ Passionate stargazer, finding wonder in the vastness of the night sky.🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
