@@ -1,11 +1,11 @@
 ![logo](https://github.com/VishaLPatiL9029/VishaLPatiL9029/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Vishal Patil</h1>
-<h3 align="center">A passionate Data Science and Machine Learning Engineer</h3>
+<h3 align="center">A passionate Data Engineer and Data Analyst </h3>
 <img align = "right" alt = "coding" width = "400" src = "https://github.com/VishaLPatiL9029/VishaLPatiL9029/blob/main/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalpatil9029&label=Profile%20views&color=0e75b6&style=flat" alt="vishalpatil9029" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, MLOps**
+- 🌱 I’m currently learning **Databricks, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VishaLPatiL9029](https://github.com/VishaLPatiL9029)
 
