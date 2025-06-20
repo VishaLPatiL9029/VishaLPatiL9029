@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VishaLPatiL9029](https://github.com/VishaLPatiL9029)
 
-- 📫 How to reach me **vishalpatil@gmail.com**
+- 📫 How to reach me **vishalpatil228@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1s6IGT2VuWeZQMoG056q_PNLln87kmKTu/view?usp=drive_link](https://drive.google.com/file/d/1s6IGT2VuWeZQMoG056q_PNLln87kmKTu/view?usp=drive_link)
 
